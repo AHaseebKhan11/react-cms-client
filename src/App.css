@@ -30,3 +30,16 @@
     transform: rotate(360deg);
   }
 }
+
+.display-inline {
+  display: inline-flex;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+.tile {
+  border-bottom: solid 1px white;
+  margin-top: 2rem;
+}
